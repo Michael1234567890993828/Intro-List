@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en"
-
 <body>
     <h1>My Favorite Basketball Players</h1>>
         <h2>LeBron James</h2>
@@ -16,4 +13,3 @@
         <h2>Luka Dončić</h2>
         <img src="MyFavoriteBasketballPlayersImages/download (15).jpg" alt="Luka Dončić">
 </body>
-</html>
