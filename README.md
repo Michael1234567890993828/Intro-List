@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>My Favorite Basketball Players</title>
 </head>
 <body>
     <h1>My Favorite Basketball Players</h1>>
