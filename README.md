@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
+<html lang="en"
+
 <body>
     <h1>My Favorite Basketball Players</h1>>
         <h2>LeBron James</h2>
