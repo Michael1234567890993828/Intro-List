@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: lightskyblue;
+}
+p {
+    color: darkblue;
+}
+ul {
+    list-style-type: square;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
